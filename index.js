@@ -1,3 +1,4 @@
+/* Powered by CodeByTushu | Developed by Tushpendra Kumar | https://codebytushu.com */
 const slider = document.querySelector('.slider');
 
 function activate(e) {
